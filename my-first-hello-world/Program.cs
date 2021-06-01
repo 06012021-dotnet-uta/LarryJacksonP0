@@ -30,7 +30,7 @@ namespace my_first_hello_world
             
             /* Gets the user input of their age*/
             Console.Write("Type your age: ");
-            string myAge = Console.ReadLine();/* prompt the user to enter their age */
+            string myAge = Console.ReadLine();/* Receives the user input of their age */
 
             Console.WriteLine();/* Adds a space between the prompt questions/ responses and the display at the bottom */
             Console.WriteLine($"Hello, {myFirstName} you are {myAge} years old.");
