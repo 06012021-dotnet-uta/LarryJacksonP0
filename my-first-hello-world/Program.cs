@@ -26,13 +26,13 @@ namespace my_first_hello_world
             /* This adds a space between each questions */
             Console.WriteLine();
 
-            Console.WriteLine("How old are you? ");/* Asking the user how old are they */
+            Console.WriteLine("How old are you? ");/* Asking the user how old they are */
             
             /* Gets the user input of their age*/
             Console.Write("Type your age: ");
             string myAge = Console.ReadLine();/* prompt the user to enter their age */
 
-            Console.WriteLine();/* Adds a space between the prompt questions/ response and display */
+            Console.WriteLine();/* Adds a space between the prompt questions/ responses and the display at the bottom */
             Console.WriteLine("Hello, " + myFirstName);
             Console.WriteLine("You are " + myAge + " years old.");
         }
