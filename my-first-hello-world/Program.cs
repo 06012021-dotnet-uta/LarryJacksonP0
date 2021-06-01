@@ -33,8 +33,7 @@ namespace my_first_hello_world
             string myAge = Console.ReadLine();/* prompt the user to enter their age */
 
             Console.WriteLine();/* Adds a space between the prompt questions/ responses and the display at the bottom */
-            Console.WriteLine("Hello, " + myFirstName);
-            Console.WriteLine("You are " + myAge + " years old.");
+            Console.WriteLine($"Hello, {myFirstName} you are {myAge} years old.");
         }
     }
 }
