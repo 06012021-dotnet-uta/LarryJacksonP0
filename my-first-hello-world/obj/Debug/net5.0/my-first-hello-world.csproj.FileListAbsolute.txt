@@ -1,0 +1,16 @@
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.csproj.AssemblyReference.cache
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.AssemblyInfoInputs.cache
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.AssemblyInfo.cs
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.csproj.CoreCompileInputs.cache
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\bin\Debug\net5.0\my-first-hello-world.exe
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\bin\Debug\net5.0\my-first-hello-world.deps.json
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\bin\Debug\net5.0\my-first-hello-world.runtimeconfig.json
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\bin\Debug\net5.0\my-first-hello-world.runtimeconfig.dev.json
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\bin\Debug\net5.0\my-first-hello-world.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\bin\Debug\net5.0\ref\my-first-hello-world.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\bin\Debug\net5.0\my-first-hello-world.pdb
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\ref\my-first-hello-world.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.pdb
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\my-first-hello-world\obj\Debug\net5.0\my-first-hello-world.genruntimeconfig.cache
