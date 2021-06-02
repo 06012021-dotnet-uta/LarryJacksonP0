@@ -4,11 +4,11 @@ namespace RockPaperScissors
 {
     class Program
     {
-        public enum RpsChoice {
-            Rock = 1,
-            Paper = 2,
-            Scissors = 3
-        }
+//         public enum RpsChoice {
+//             Rock = 1,
+//             Paper = 2,
+//             Scissors = 3
+//         }
         static void Main(string[] args)
         { 
 //             /* Greeting message and prompt the user to make a choice */
