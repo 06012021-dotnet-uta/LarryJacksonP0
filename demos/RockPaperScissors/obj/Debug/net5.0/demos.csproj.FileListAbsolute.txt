@@ -1,0 +1,16 @@
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\bin\Debug\net5.0\demos.exe
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\bin\Debug\net5.0\demos.deps.json
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\bin\Debug\net5.0\demos.runtimeconfig.json
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\bin\Debug\net5.0\demos.runtimeconfig.dev.json
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\bin\Debug\net5.0\demos.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\bin\Debug\net5.0\ref\demos.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\bin\Debug\net5.0\demos.pdb
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.csproj.AssemblyReference.cache
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.AssemblyInfoInputs.cache
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.AssemblyInfo.cs
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.csproj.CoreCompileInputs.cache
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\ref\demos.dll
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.pdb
+C:\Users\Larry\Desktop\06012021_BatchFiles\LarryJacksonP0\demos\RockPaperScissors\obj\Debug\net5.0\demos.genruntimeconfig.cache
