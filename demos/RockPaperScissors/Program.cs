@@ -76,7 +76,7 @@ namespace RockPaperScissors
                  while (scorePlayer < 3 && scoreCPU < 3) {
 
                 
-            Console.WriteLine();/*Gives a space */
+            Console.WriteLine();                /*Gives a space */
             /* Greetings message with user prompt */
             Console.WriteLine("Choose between R, P, S:  \n");
             
@@ -89,70 +89,70 @@ namespace RockPaperScissors
             switch (randomInt)
             {
                 case 1:
-                    inputCPU = "ROCK"; /* CPU picks rock */
+                    inputCPU = "ROCK";              /* CPU picks rock */
                     Console.WriteLine("Computer chose ROCK");
-                    if (inputPlayer == "R") { /* If Player inputs rock */
+                    if (inputPlayer == "R") {       /* If Player inputs rock */
                         Console.WriteLine("Draw!\n");/* Result will be a draw */
                     }
                     else if (inputPlayer == "P") {  /* Else If Player inputs paper */
                         Console.WriteLine("Player WINS!\n");
-                        scorePlayer++; /*Adds a point to the score if the player wins */
+                        scorePlayer++;              /*Adds a point to the score if the player wins */
                     }
-                    else if (inputPlayer == "S") { /* Else If Player inputs scissors */
+                    else if (inputPlayer == "S") {  /* Else If Player inputs scissors */
                         Console.WriteLine("CPU WINS!\n");
-                        scoreCPU++; /*Adds a point to the score if the CPU wins */
+                        scoreCPU++;                 /*Adds a point to the score if the CPU wins */
                     }
                         break;
                 case 2:
-                    inputCPU = "PAPER"; /* CPU picks paper */
+                    inputCPU = "PAPER";             /* CPU picks paper */
                     Console.WriteLine("Computer chose PAPER");
-                    if (inputPlayer == "P") { /* If Player inputs paper */
+                    if (inputPlayer == "P") {       /* If Player inputs paper */
                         Console.WriteLine("Draw!\n");/* Result will be a draw */
                     }
                     else if (inputPlayer == "R") { /* Else If Player inputs rock */
                         Console.WriteLine("CPU WINS!\n");
-                        scoreCPU++; /*Adds a point to the score if the CPU wins */
+                        scoreCPU++;                 /*Adds a point to the score if the CPU wins */
                     }
-                    else if (inputPlayer == "S") { /* Else If Player inputs scissors */
+                    else if (inputPlayer == "S") {  /* Else If Player inputs scissors */
                         Console.WriteLine("Player WINS!\n");
-                        scorePlayer++; /*Adds a point to the score if the player wins */
+                        scorePlayer++;              /*Adds a point to the score if the player wins */
                     }
                         break;
                 case 3:
-                    inputCPU = "SCISSORS"; /* CPU picks scissors */
+                    inputCPU = "SCISSORS";          /* CPU picks scissors */
                     Console.WriteLine("Computer chose SCISSORS");
-                    if (inputPlayer == "S") { /* If Player inputs scissors */
+                    if (inputPlayer == "S") {       /* If Player inputs scissors */
                         Console.WriteLine("Draw!\n");/* Result will be a draw */
                     }
                      else if (inputPlayer == "R") { /* Else If Player inputs rock */
                         Console.WriteLine("Player WINS!\n");
-                        scorePlayer++; /*Adds a point to the score if the player wins */
+                        scorePlayer++;              /*Adds a point to the score if the player wins */
                     }
-                    else if (inputPlayer == "P") { /* Else If Player inputs paper */
+                    else if (inputPlayer == "P") {  /* Else If Player inputs paper */
                         Console.WriteLine("CPU WINS!\n");
-                        scoreCPU++; /*Adds a point to the score if the CPU wins */
+                        scoreCPU++;                 /*Adds a point to the score if the CPU wins */
                     }
                         break;
                 default:
-                    Console.WriteLine("Invalid entry!");/* Anything else but R, P, or S
-                                                        this will display an error message */
+                    Console.WriteLine("Invalid entry!");    /* Anything else but R, P, or S
+                                                            this will display an error message */
                     break;
                 }
                 
-                Console.WriteLine($"PLAYER SCORE:{scorePlayer}\n\nCPU SCORE: {scoreCPU}");/* Keeps both CPU and player scores */
+                Console.WriteLine($"PLAYER SCORE:{scorePlayer}\n\nCPU SCORE: {scoreCPU}");  /* Keeps both CPU and player scores */
             }//end of the outer while loop
 
-            if (scorePlayer == 3)/* If player wins the best out of 3 */
+            if (scorePlayer == 3)                       /* If player wins the best out of 3 */
                 Console.WriteLine($"\n{PlayerName} WINS THE GAME!\n");
-            else if (scoreCPU == 3) /* If CPU wins the best out of 3 */ 
+            else if (scoreCPU == 3)                     /* If CPU wins the best out of 3 */ 
                 Console.WriteLine("\nCPU WINS THE GAME!\n");
             else{}
             
             Console.WriteLine("Do you want to play again?(YES/ NO)");    /* Asking the player if they want another round */ 
-            string loop = Console.ReadLine(); /*use to store the yes or no response */
+            string loop = Console.ReadLine();                           /*use to store the yes or no response */
             if (loop == "YES"){
                 playAgain = true;
-                Console.Clear(); /* Clears out the entire console */
+                Console.Clear();                                    /* Clears out the entire console */
             }
             else if (loop == "NO")
                 playAgain = false;
